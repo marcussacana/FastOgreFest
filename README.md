@@ -4,7 +4,7 @@
 
 ##Installing
 
-1 - Drop the FastOgreFest.exe and the "service.ini" (in the git) to Oficial OgreFest Launcher
+1 - Drop the FastOgreFest.exe and the "service.ini" (in the git) to Oficial OgreFest Launcher Directory
 
 2 - Open the FastOgreFest.exe with Admin Rights
 
